@@ -29,3 +29,8 @@
 .btn-brand{
     color: rgb(247, 18, 132);
 }
+.line{
+    width: 130px;
+    height: 2px;
+    background-color: rgba(128, 128, 128, 0.39);
+}
